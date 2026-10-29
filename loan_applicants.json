@@ -1,0 +1,22 @@
+[
+  {"name": "Ali Raza", "age": 35, "monthly_income": 200000, "loan_amount": 300000, "loan_term_months": 36, "existing_loans": 0, "credit_history": "good", "employment_type": "salaried"},
+  {"name": "Ayesha Khan", "age": 28, "monthly_income": 85000, "loan_amount": 600000, "loan_term_months": 48, "existing_loans": 1, "credit_history": "good", "employment_type": "salaried"},
+  {"name": "Usman Tariq", "age": 41, "monthly_income": 150000, "loan_amount": 1800000, "loan_term_months": 60, "existing_loans": 2, "credit_history": "average", "employment_type": "business"},
+  {"name": "Fatima Noor", "age": 24, "monthly_income": 45000, "loan_amount": 1200000, "loan_term_months": 24, "existing_loans": 1, "credit_history": "none", "employment_type": "salaried"},
+  {"name": "Hamza Sheikh", "age": 52, "monthly_income": 320000, "loan_amount": 2500000, "loan_term_months": 60, "existing_loans": 1, "credit_history": "good", "employment_type": "business"},
+  {"name": "Sana Malik", "age": 31, "monthly_income": 120000, "loan_amount": 450000, "loan_term_months": 36, "existing_loans": 0, "credit_history": "good", "employment_type": "self_employed"},
+  {"name": "Bilal Ahmed", "age": 26, "monthly_income": 38000, "loan_amount": 2200000, "loan_term_months": 12, "existing_loans": 3, "credit_history": "none", "employment_type": "self_employed"},
+  {"name": "Maryam Iqbal", "age": 38, "monthly_income": 180000, "loan_amount": 900000, "loan_term_months": 48, "existing_loans": 1, "credit_history": "average", "employment_type": "salaried"},
+  {"name": "Zain Abbas", "age": 45, "monthly_income": 95000, "loan_amount": 2800000, "loan_term_months": 36, "existing_loans": 4, "credit_history": "average", "employment_type": "business"},
+  {"name": "Hira Javed", "age": 29, "monthly_income": 70000, "loan_amount": 250000, "loan_term_months": 24, "existing_loans": 0, "credit_history": "good", "employment_type": "salaried"},
+  {"name": "Danish Qureshi", "age": 58, "monthly_income": 260000, "loan_amount": 1500000, "loan_term_months": 60, "existing_loans": 2, "credit_history": "good", "employment_type": "business"},
+  {"name": "Nimra Aslam", "age": 22, "monthly_income": 32000, "loan_amount": 150000, "loan_term_months": 24, "existing_loans": 0, "credit_history": "none", "employment_type": "salaried"},
+  {"name": "Kamran Butt", "age": 36, "monthly_income": 55000, "loan_amount": 1900000, "loan_term_months": 24, "existing_loans": 2, "credit_history": "none", "employment_type": "self_employed"},
+  {"name": "Rabia Siddiqui", "age": 33, "monthly_income": 220000, "loan_amount": 700000, "loan_term_months": 36, "existing_loans": 0, "credit_history": "good", "employment_type": "salaried"},
+  {"name": "Faisal Mehmood", "age": 47, "monthly_income": 110000, "loan_amount": 1300000, "loan_term_months": 48, "existing_loans": 3, "credit_history": "average", "employment_type": "self_employed"},
+  {"name": "Iqra Hussain", "age": 27, "monthly_income": 60000, "loan_amount": 350000, "loan_term_months": 36, "existing_loans": 1, "credit_history": "average", "employment_type": "salaried"},
+  {"name": "Saad Bashir", "age": 40, "monthly_income": 400000, "loan_amount": 3000000, "loan_term_months": 60, "existing_loans": 1, "credit_history": "good", "employment_type": "business"},
+  {"name": "Zoya Farooq", "age": 30, "monthly_income": 48000, "loan_amount": 800000, "loan_term_months": 12, "existing_loans": 2, "credit_history": "average", "employment_type": "self_employed"},
+  {"name": "Adeel Rauf", "age": 55, "monthly_income": 135000, "loan_amount": 500000, "loan_term_months": 48, "existing_loans": 0, "credit_history": "good", "employment_type": "salaried"},
+  {"name": "Mehwish Anwar", "age": 34, "monthly_income": 75000, "loan_amount": 2400000, "loan_term_months": 36, "existing_loans": 3, "credit_history": "none", "employment_type": "business"}
+]
